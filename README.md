@@ -153,13 +153,9 @@ You’ve got a good edge here — just need to sharpen one last area.
 
 ## 🧭 Final Overview
 
-You're:
-
 * 🧠 Solid in theory and real-world Excel
 * 📊 Advancing steadily in BI tools, Python, and SQL
 * 📂 Ready to build standout projects and communicate insights clearly
 * 🌱 Still growing in storytelling, Git, cloud tools, and advanced topics like APIs/time series
 
 ---
-
-Let me know if you want this converted into a visual map or milestone plan with weekly checkpoints.
