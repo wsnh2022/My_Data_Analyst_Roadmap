@@ -1,7 +1,8 @@
 # Data analyst skill map
+
 ---
 
-## ✅ **Color Legend for Proficiency Levels** (top left corner):
+## ✅ **Color Legend for Proficiency Levels**
 
 * 🔵 **Blue = Basic (\~20%)**
 * 🟡 **Yellow = Intermediate (\~50%)**
