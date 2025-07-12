@@ -52,7 +52,7 @@ These three are called "measures of central tendency." They all try to describe 
 
 ---
 
-## 3. Mode (The Most Frequent Value for non- numerical data)
+## 3. Mode (The Most Frequent Value used only for non- numerical data)
 
 *   **What it is:** The value that appears most often in a dataset. A dataset can have one mode, more than one mode (multimodal), or no mode at all.
 
